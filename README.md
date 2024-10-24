@@ -2,7 +2,7 @@
 
 ### ✨ QiblaVision is an innovative AI-powered system that accurately detects and recognizes critical postures in the Islamic prayer ritual (Salat). Leveraging advanced deep learning algorithms and computer vision techniques, the system identifies essential Salat postures such as Ruku (bowing), Raising, and Takbeer (standing), ensuring that users can perform their prayers precisely and confidently.
 
-
+![result](https://github.com/user-attachments/assets/6f65633b-49d9-4b74-99e8-25e5eb6544a5)
 
 ## 🎯 Purpose
 
