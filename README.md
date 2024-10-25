@@ -22,6 +22,9 @@
 ## 😎 deployment
 ### you can try live from here `https://3eb38dba6bec1ae237.gradio.live/`
 
+![result](https://github.com/AhemdMahmoud/QiblaVision/blob/main/Gif_o.gif)
+
+
 ## 🎶 contribution
 * you can access `https://colab.research.google.com/drive/1D5E2EGB_FsjDd_SF1qcckqggtRGvzGIT#scrollTo=6gfJ5xlqWu0z`
   
