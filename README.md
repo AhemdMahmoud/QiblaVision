@@ -20,7 +20,7 @@
 - Posture Recognition: The Mediapipe Pose model analyzes the detected pose to ensure it matches one of the fundamental Salat postures
 
 ## 😎 deployment
-
+### you can try live from here `https://3eb38dba6bec1ae237.gradio.live/`
 
 
 ## 🎶 contribution
