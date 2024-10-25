@@ -18,3 +18,11 @@
 
 - Pose Detection: The system first uses the YOLO V8 and Faster R-CNN models to identify the body posture.
 - Posture Recognition: The Mediapipe Pose model analyzes the detected pose to ensure it matches one of the fundamental Salat postures
+
+## 😎 deployment
+
+
+
+## 🎶 contribution
+* you can access `https://colab.research.google.com/drive/1D5E2EGB_FsjDd_SF1qcckqggtRGvzGIT#scrollTo=6gfJ5xlqWu0z`
+  
