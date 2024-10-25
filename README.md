@@ -13,11 +13,13 @@
 - Real-Time Detection: Utilizes cutting-edge neural network models, including Faster R-CNN and YOLO V8, to enable real-time, high-precision detection of Salat postures.
 - Enhanced Accuracy: Integrates the Mediapipe Pose model to capture the unique angles and positions that define each posture, improving recognition accuracy.
 - Educational Tool: Aims to serve as a valuable tool for educational purposes, helping users learn and perfect their prayer postures.
+- Corrective Feedback: Provides feedback on prayer posture alignment to ensure adherence to traditional practices.
 
 ## 📚 How It Works
 
 - Pose Detection: The system first uses the YOLO V8 and Faster R-CNN models to identify the body posture.
 - Posture Recognition: The Mediapipe Pose model analyzes the detected pose to ensure it matches one of the fundamental Salat postures
+- Feedback Mechanism: Based on the analysis, SalatPose provides feedback on whether the posture is correctly performed, guiding users to improve.
 
 ## 😎 deployment
 ### you can try live from here `https://3eb38dba6bec1ae237.gradio.live/`
